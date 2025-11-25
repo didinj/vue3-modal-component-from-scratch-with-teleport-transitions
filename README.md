@@ -1,6 +1,6 @@
 # Vue 3 Modal Component from Scratch with Teleport and Transitions
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6925750cc24b131764716f72/vue-3-modal-component-from-scratch-with-teleport-and-transitions).
 
 This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
